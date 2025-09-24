@@ -4,7 +4,11 @@ using namespace std;
 
 int main() {
 
-    // var=5 tpdata=2 const=1 oprator=3 assigment=2
+    // variabel 5 tpdata=2 const=1 oprator=3 assigment=2
+    // tipe data 2
+    // konstanta 1
+    // operator 3
+    // operator assigment
 
     string nama;
     string kondisi;
