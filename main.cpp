@@ -25,7 +25,9 @@ int main() {
     cout << "Masukan bulan : ";
     cin >> bulan;
 
-    jumlah = (hari + bulan) * uang - uang;
+    jumlah = hari + bulan;
+    jumlah *= uang;
+    jumlah += uang;
 
     cout << "selamat uang anda " << jumlah; 
 
