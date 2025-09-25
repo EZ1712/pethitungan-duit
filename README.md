@@ -6,6 +6,8 @@
   operator 3
   operator assigment 2
 
+  
+
   Program menghitung uang jajan secara mudah dan tepat tanpa harus menghitung
 
   string untuk memasukan nama dan kondisi
